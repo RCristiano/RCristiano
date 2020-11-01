@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rcristiano)](https://www.linkedin.com/in/rcristiano)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Teichyn)](https://twitter.com/Teichyn)
 
-[![HitCount](http://hits.dwyl.com/RCristiano/RCristiano.svg)](http://hits.dwyl.com/RCristiano/RCristiano)
 ![RCristiano](https://komarev.com/ghpvc/?username=RCristiano)
 
 ## 𝐇𝐞𝐥𝐥𝐨, internet!

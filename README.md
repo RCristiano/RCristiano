@@ -16,5 +16,4 @@
 <!-- - 🤔 I’m looking for help with -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=RCristiano&show_icons=true)](https://github.com/RCristiano?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RCristiano&layout=compact)](https://github.com/RCristiano?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RCristiano&layout=compact&hide=javascript,html,css,scss,less&langs_count=8)](https://github.com/RCristiano?tab=repositories)

@@ -9,13 +9,13 @@
 ## 𝐇𝐞𝐥𝐥𝐨, internet!
 
 - 🌎 I'm from São Paulo / Brazil
-- 🔭 I’m currently working on REST APIs, Data Ingestion ETL, 
+- 🔭 I’m currently working on REST APIs, Data Ingestion ETL, Databricks, Azure Functions
 - 🌱 I’m currently learning Golang
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+<!-- - 👯 I’m looking to collaborate on -->
+<!-- - 🤔 I’m looking for help with -->
+- 💬 Ask me about Python
 - 📫 How to reach me: rcristianofv@hotmail.com
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=RCristiano&show_icons=true)](https://github.com/RCristiano)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=RCristiano&show_icons=true)](https://github.com/RCristiano?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RCristiano&layout=compact)](https://github.com/RCristiano?tab=repositories)

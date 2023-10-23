@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RCristiano)](https://github.com/RCristiano)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/RCristiano)](https://gitlab.com/RCristiano)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rcristiano)](https://www.linkedin.com/in/rcristiano)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Teichyn)](https://twitter.com/Teichyn)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RCristianoFV)](https://twitter.com/RCristianoFV)
 [![RCristiano](https://komarev.com/ghpvc/?username=RCristiano)](https://github.com/RCristiano)
 
 ## 𝐇𝐞𝐥𝐥𝐨, internet!

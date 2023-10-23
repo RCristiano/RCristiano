@@ -18,3 +18,5 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=RCristiano&show_icons=true&count_private=true&line_height=24&hide_rank=true)](https://github.com/RCristiano?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RCristiano&layout=compact&hide=php,javascript,html,css,scss,less&langs_count=8)](https://github.com/RCristiano?tab=repositories)
+
+[![An image of @rcristiano's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rcristiano)](https://holopin.io/@rcristiano)
